@@ -1,0 +1,9 @@
+[submodule "comet_cham_lwc_v2"]
+	path = comet_cham_lwc_v2
+	url = https://github.com/vtsal/comet_cham_lwc_v2.git
+[submodule "gift_cofb_lwc_v2"]
+	path = gift_cofb_lwc_v2
+	url = https://github.com/vtsal/gift_cofb_lwc_v2.git
+[submodule "LWC"]
+	path = LWC
+	url = https://github.com/kammoh/LWC.git
